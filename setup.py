@@ -5,7 +5,7 @@
 NAME = "ZenPacks.ipSLA.SLADevice"
 VERSION = "2.0.1"
 AUTHOR = "Shane William Scott"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.ipSLA']
 PACKAGES = ['ZenPacks', 'ZenPacks.ipSLA', 'ZenPacks.ipSLA.SLADevice']
 INSTALL_REQUIRES = []
